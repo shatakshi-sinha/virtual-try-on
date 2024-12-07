@@ -21,20 +21,20 @@ This project implements a Generative Adversarial Network (GAN) to augment e-comm
    `python app.py`
 
 ## Project Structure
-ecommerce-ai/
-├── README.md
-├── requirements.txt
-├── app.py
-├── data/
-│   └── sample_images/          # Placeholder for raw images
-├── models/
-│   ├── generator.py
-│   └── discriminator.py
-├── scripts/
-│   ├── train_gan.py
-│   └── preprocess_images.py
-└── utils/
-    └── image_utils.py
+ecommerce-ai/<br>
+├── README.md<br>
+├── requirements.txt<br>
+├── app.py<br>
+├── data/<br>
+│   └── sample_images/          # Placeholder for raw images<br>
+├── models/<br>
+│   ├── generator.py<br>
+│   └── discriminator.py<br>
+├── scripts/<br>
+│   ├── train_gan.py<br>
+│   └── preprocess_images.py<br>
+└── utils/<br>
+    └── image_utils.py<br>
 
 ## Usage
 - Train the GAN: `python scripts/train_gan.py`
